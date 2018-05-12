@@ -1,4 +1,5 @@
 _repo: The-Father-and-Daughter-A-Tale-in-Prose_49621
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Opie, John
@@ -6,6 +7,9 @@ contributor:
     deathdate: 1807
     gutenberg_agent_id: '45447'
     url: http://www.gutenberg.org/2009/agents/45447
+covers:
+- cover_type: archival
+  image_path: 49621-h/images/cover.jpg
 creator:
   author:
     agent_name: Opie, Amelia
@@ -18,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37581
     wikipedia: http://en.wikipedia.org/wiki/Amelia_Opie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49621#The-Father-and-Daughter-A-Tale-in-Prose
 gutenberg_issued: '2015-08-05'
 gutenberg_type: Text
 identifiers:
